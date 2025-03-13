@@ -8,7 +8,7 @@ A secure and decentralized smart contract that requires multiple approvals to ex
 - 🔄 **On-chain execution** – Only approved transactions get executed.
 - 💰 **Secure fund storage** – Holds ETH securely until consensus is reached.
 
-## Deployment
+## Deployment 
 1. Deploy the contract with an array of owner addresses and the required number of approvals.
 2. Fund the contract by sending ETH to its address.
 
