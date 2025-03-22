@@ -13,7 +13,7 @@ A secure and decentralized smart contract that requires multiple approvals to ex
 2. Fund the contract by sending ETH to its address.
 
 ## Usage 
-- **Submit a transaction:** Any owner can propose a transaction. 
+- **Submit a transaction:** Any owner can propose a transaction.  
 - **Approve a transaction:** Owners can approve transactions.  
 - **Execute a transaction:** Once enough approvals are collected, the transaction can be executed.
 
