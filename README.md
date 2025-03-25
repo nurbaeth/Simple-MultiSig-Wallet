@@ -6,7 +6,7 @@ A secure and decentralized smart contract that requires multiple approvals to ex
 - 🔑 **Multi-owner support** – Multiple addresses can co-manage funds.
 - ✅ **Approval-based execution** – Transactions need a predefined number of confirmations.
 - 🔄 **On-chain execution** – Only approved transactions get executed.
-- 💰 **Secure fund storage** – Holds ETH securely until consensus is reached.
+- 💰 **Secure fund storage** – Holds ETH securely until consensus is reached. 
 
 ## Deployment 
 1. Deploy the contract with an array of owner addresses and the required number of approvals.
