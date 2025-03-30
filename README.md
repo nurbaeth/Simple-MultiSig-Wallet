@@ -10,7 +10,7 @@ A secure and decentralized smart contract that requires multiple approvals to ex
 
 ## Deployment 
 1. Deploy the contract with an array of owner addresses and the required number of approvals.
-2. Fund the contract by sending ETH to its address.
+2. Fund the contract by sending ETH to its address. 
  
 ## Usage 
 - **Submit a transaction:** Any owner can propose a transaction.  
