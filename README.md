@@ -14,7 +14,7 @@ A secure and decentralized smart contract that requires multiple approvals to ex
  
 ## Usage 
 - **Submit a transaction:** Any owner can propose a transaction.   
-- **Approve a transaction:** Owners can approve transactions.  
+- **Approve a transaction:** Owners can approve transactions.   
 - **Execute a transaction:** Once enough approvals are collected, the transaction can be executed.
 
 ## Smart Contract
