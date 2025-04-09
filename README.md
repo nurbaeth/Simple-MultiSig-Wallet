@@ -18,7 +18,7 @@ A secure and decentralized smart contract that requires multiple approvals to ex
 - **Execute a transaction:** Once enough approvals are collected, the transaction can be executed.
 
 ## Smart Contract
-### Constructor 
+### Constructor  
 ```solidity
 constructor(address[] memory _owners, uint _required)
 ```
